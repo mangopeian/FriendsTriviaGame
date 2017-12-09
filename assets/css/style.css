@@ -17,6 +17,7 @@ header{
 }
 .btn-primary:hover,{
 	background-color: #202364;
+	cursor:pointer;
 }
 
 .container{
@@ -34,6 +35,7 @@ h2, #message, #finalMessage{
 	background-color: #202364;
 	color: white;
 	padding: 10px;
+	cursor:pointer;
 }
 
 #gif{
